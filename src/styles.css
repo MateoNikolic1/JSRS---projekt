@@ -1,0 +1,71 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  background-color: burlywood;
+}
+
+.glavna_slika {
+  width: 500px;
+  height: 300px;
+}
+
+.header {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.link_1:hover {
+  color: white;
+  font-weight: 700;
+}
+
+.pocetak {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.inter {
+  width: 15%;
+}
+
+.tekst {
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+.naslovi {
+  letter-spacing: 3px;
+  word-spacing: 5px;
+}
+
+.pocetak_karijere {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.header {
+  text-align: center;
+}
+.tablica {
+  border: 2px solid white;
+  padding: 7px;
+  margin-left: 38%;
+}
+
+.nagrada {
+  width: 35%;
+}
+
+.nagrada_1 {
+  font-weight: 1000;
+  margin-top: 5px;
+}
+
+.insta {
+  width: 80px;
+  margin-right: -50px;
+}
+
+.fb {
+  width: 80px;
+  margin-left: 100px;
+}
